@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/toastmasters/static/css/main.31194cdb.css",
+    "main.js": "/toastmasters/static/js/main.296e0fdc.js",
+    "static/js/787.3a8f1f5f.chunk.js": "/toastmasters/static/js/787.3a8f1f5f.chunk.js",
+    "static/media/Toastmasters.png": "/toastmasters/static/media/Toastmasters.a1a868cb5cbb40ca2df9.png",
+    "static/media/profile2.jpg": "/toastmasters/static/media/profile2.4686f1dcec446a37c61e.jpg",
+    "static/media/Background.jpg": "/toastmasters/static/media/Background.6f3949d2055a51ef2bd1.jpg",
+    "static/media/toasty.jpg": "/toastmasters/static/media/toasty.be0c1c9749707e5a6218.jpg",
+    "static/media/Rectangle.png": "/toastmasters/static/media/Rectangle.284a9b7866f2cda13052.png",
+    "index.html": "/toastmasters/index.html",
+    "main.31194cdb.css.map": "/toastmasters/static/css/main.31194cdb.css.map",
+    "main.296e0fdc.js.map": "/toastmasters/static/js/main.296e0fdc.js.map",
+    "787.3a8f1f5f.chunk.js.map": "/toastmasters/static/js/787.3a8f1f5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31194cdb.css",
+    "static/js/main.296e0fdc.js"
+  ]
+}
